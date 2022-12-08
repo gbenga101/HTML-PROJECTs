@@ -1,0 +1,8 @@
+.mypics{
+    position: relative;
+    width: 180px;
+    height: 190px;
+    float: right;
+    margin-top: 5%;
+    padding-right: 1em;
+}
